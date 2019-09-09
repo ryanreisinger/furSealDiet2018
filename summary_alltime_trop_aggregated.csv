@@ -1,0 +1,4 @@
+"prey","n.samples","fo.number","fo.number.LCL","fo.number.UCL","fo.percent","fo.percent.LCL","fo.percent.UCL","n.preyitems","na.number","na.number.LCL","na.number.UCL","na.percent","na.percent.LCL","na.percent.UCL","na.weighted","na.weighted.LCL","na.weighted.UCL","rank.fo","rank.na","rank.fo.inv","rank.na.inv","cum.fo","cum.na","fo.prim","na.prim"
+"Fish",750,746,741,749,99.4666666666667,98.8,99.8666666666667,13654,13650,12589,14628,99.9707045554416,99.9344978165939,99.9930386355726,99.4666666666667,98.8,99.8666666666667,3,3,1,1,99.4666666666667,99.9707045554416,"primary","primary"
+"Cephalopod",750,3,0,7,0.4,0,0.933333333333333,13654,3,0,7,0.0219715834187784,0,0.0509461426491994,0.4,0,0.933333333333333,2,2,2,2,99.8666666666667,99.9926761388604,"primary","primary"
+"Crustacean",750,1,0,4,0.133333333333333,0,0.533333333333333,13654,1,0,4,0.00732386113959279,0,0.030686612965094,0.133333333333333,0,0.533333333333333,1,1,3,3,100,100,"primary","primary"
